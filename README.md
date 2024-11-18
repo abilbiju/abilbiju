@@ -27,7 +27,8 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Intern - Data Science & Machine Learning in Python"
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Cybersecurity"
   ]
   
 hobbies: ["Coding", "Cinema", "Piano"]
