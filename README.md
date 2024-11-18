@@ -46,6 +46,7 @@ hobbies: ["Coding", "Cinema", "Piano"]
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" alt="Github" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="linux" width=45 height=45/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45"/>
