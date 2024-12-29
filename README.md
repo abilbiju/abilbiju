@@ -11,7 +11,7 @@ located_in: Kerala,India
 current_job: Data Science Student
 education:
   [
-    "Self-Taught Machine Learning Specialist",
+    "Self-Taught Machine Learning and Cyber-Security enthusiast",
     "Bachelor's in Computer Science and Engineering(Data Science)",
   ]
 
@@ -28,7 +28,8 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Data Science & Machine Learning in Python",
-    "Intern - Cybersecurity"
+    "Intern - Cybersecurity",
+    "Intern - Data Science"
   ]
   
 hobbies: ["Coding", "Cinema", "Piano"]
